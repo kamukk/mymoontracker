@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-01-01 01:01:00",
+        "time_zone": "UTC",
+        "cycle_type": "Pink Moon Cycle"
+    },
+    {
+        "date": "2024-02-21 11:11:00",
+        "time_zone": "UTC",
+        "cycle_type": "Pink Moon Cycle"
+    },
+    {
+        "date": "2024-03-20 01:01:00",
+        "time_zone": "UTC",
+        "cycle_type": "Pink Moon Cycle"
+    },
+    {
+        "date": "2024-05-01 01:01:00",
+        "time_zone": "UTC",
+        "cycle_type": "Pink Moon Cycle"
+    },
+    {
+        "date": "2024-06-03 11:11:00",
+        "time_zone": "UTC",
+        "cycle_type": "Red Moon Cycle"
+    },
+    {
+        "date": "2024-06-30 11:11:00",
+        "time_zone": "UTC",
+        "cycle_type": "Red Moon Cycle"
+    }
+]
